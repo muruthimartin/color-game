@@ -4,4 +4,4 @@ The game randomly generates different combinations of RGB numbers and asks the u
 Pretty cool, huh!<br/>
 ## Usage
 1. git clone the repository's url into a new folder or download the zipped file
-2. Open index.html and enjoy the game
+2. Open colorGame.html and enjoy the game
